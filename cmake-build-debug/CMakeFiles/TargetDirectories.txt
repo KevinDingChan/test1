@@ -1,0 +1,3 @@
+/home/chending/CLionProjects/agri_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chending/CLionProjects/agri_01/cmake-build-debug/CMakeFiles/agri_01.dir
+/home/chending/CLionProjects/agri_01/cmake-build-debug/CMakeFiles/edit_cache.dir
